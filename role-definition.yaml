@@ -1,0 +1,6 @@
+title: Custom Role
+description: Custom role with Cloud SQL connect and get permissions
+stage: GA
+includedPermissions:
+- cloudsql.instances.connect
+- cloudsql.instances.get
